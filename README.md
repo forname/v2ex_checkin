@@ -9,4 +9,3 @@ v2ex 定时自动签到脚本
  1. pip install -r requirements.txt
  2. 在 config.py 设置v2ex 用户名密码，以及邮件配置信息
  3. python v2ex.py
-linux 下可以用 `nohup python v2ex.py &` 放入后台
